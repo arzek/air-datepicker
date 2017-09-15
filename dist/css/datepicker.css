@@ -161,6 +161,7 @@
     Datepicker
    ------------------------------------------------- */
 .datepickers-container {
+  z-index: 99999999999999999999999999999999999;
   position: absolute;
   left: 0;
   top: 0; }
